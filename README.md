@@ -1,3 +1,3 @@
 # java-script
 
-Hi this is my first step to lear java script from udacity. 
+Hi this is my first step to learn java script from udacity. 
